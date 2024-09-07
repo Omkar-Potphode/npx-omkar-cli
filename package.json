@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["cli", "terminal", "console", "ascii", "unicode", "border", "box", "text", "banner", "art", "ansi"],
   "author": "Omkar Potphode",
   "license": "ISC",
   "dependencies": {
