@@ -4,6 +4,9 @@
   "description": "Omkar's Personal CLI",
   "main": "index.js",
   "type": "module",
+  "bin" : {
+    "omkarlovescode" : "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
